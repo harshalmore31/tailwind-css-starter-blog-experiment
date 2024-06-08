@@ -2,8 +2,8 @@
 const siteMetadata = {
   title: 'Harshal More Blog',
   author: 'Harshal More',
-  headerTitle: 'TailwindBlog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  headerTitle: 'DSA blog',
+  description: 'A blog Template modfified by Harshal More',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
